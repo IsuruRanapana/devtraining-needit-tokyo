@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e040efbc9749e9101fb1b317f053afbc" label="User" max_length="40" name="x_58872_needit_user" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" mandatory="true" max_length="40" name="u_last_name" type="string"/>
+    </element>
+</database>
