@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f0ab212597cd6d101fb1b317f053af6f" label="Note" max_length="40" name="x_58872_needit_note" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Note Name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Note Description" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>
